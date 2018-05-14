@@ -161,3 +161,5 @@ for pair in range(num_pairs):
     #plot it!
     plt.subplot(122)
     plt.imshow(x_reconstruction_image)
+    plt.show()
+
